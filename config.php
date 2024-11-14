@@ -2,8 +2,8 @@
 // config.php - Database configuration
 $host = 'localhost'; 
 $dbname = 'books'; 
-$user = 'mark'; 
-$pass = 'mark';
+$user = 'emma'; 
+$pass = '1163';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$dbname;charset=$charset";
